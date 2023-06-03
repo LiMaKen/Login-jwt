@@ -1,0 +1,48 @@
+.login-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  .profile-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+  }
+  
+  .profile-info {
+    margin-bottom: 10px;
+  }
+  
+  .profile-name {
+    font-weight: bold;
+  }
+  
+  .profile-phone {
+    color: #888;
+  }
+  
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
